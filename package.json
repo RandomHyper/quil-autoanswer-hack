@@ -9,7 +9,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
-    "playwright": "^1.11.1"
+    "playwright": "^1.15.2"
   },
   "devDependencies": {
     "eslint": "^7.32.0 || ^8.2.0",
